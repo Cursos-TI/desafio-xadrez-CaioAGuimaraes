@@ -1,11 +1,11 @@
 # ♟️ Desafio de Xadrez – MateCheck
 
 - Estes códigos seguem as sugestões do repositório:
- - Usa constantes para número de casas
- - Cada movimento usa a estrutura de repetição mais adequada
- - Loops aninhados no cavalo
- - Funções recursivas para bispo, torre e rainha no nível mestre
- - Uso de continue/break conforme solicitado
+  - Usa constantes para número de casas
+  - Cada movimento usa a estrutura de repetição mais adequada
+  - Loops aninhados no cavalo
+  - Funções recursivas para bispo, torre e rainha no nível mestre
+  - Uso de continue/break conforme solicitado
 
 Este repositório contém a implementação do **Desafio de Xadrez - MateCheck** proposto na disciplina de Introdução à Programação de Computadores da Estácio de Sá. O projeto está dividido em três níveis de complexidade: Novato, Aventureiro e Mestre.
 
